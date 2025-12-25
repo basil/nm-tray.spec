@@ -52,4 +52,4 @@ desktop-file-validate %{buildroot}%{_datadir}/applications/%{name}.desktop
 
 %changelog
 * Tue Dec 23 2025 Basil Crow <me@basilcrow.com> - 0.5.1-1
-- Initial COPR packaging
+- Initial packaging
