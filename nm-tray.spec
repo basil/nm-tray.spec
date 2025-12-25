@@ -8,6 +8,7 @@ URL:            https://github.com/palinek/%{name}
 Source:         https://github.com/palinek/%{name}/archive/%{version}.tar.gz
 
 BuildRequires:  cmake
+BuildRequires:  desktop-file-utils
 BuildRequires:  gcc-c++
 BuildRequires:  cmake(KF6NetworkManagerQt)
 BuildRequires:  cmake(Qt6LinguistTools)
